@@ -1,0 +1,2 @@
+[{"id":"34abad42-0a1d-4c3e-b2d1-a7d1fda0a2a5","name":"Schedule 
+Trigger","type":"n8n-nodes-base.scheduleTrigger","position":[820,360],"parameters":{"rule":{"interval":[{"daysInterval":2}]}},"typeVersion":1.1}]
